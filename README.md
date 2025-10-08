@@ -2,3 +2,4 @@ realized I can barely code any of the models I use on a daily basis -- will use 
 
 list of support:
 - Activations
+- Layers. We abstract activations as their own layers through which functions forward and gradients flow back through

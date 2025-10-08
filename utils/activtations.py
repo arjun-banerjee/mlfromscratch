@@ -2,6 +2,10 @@ import numpy as np
 """
 A file containing various activation functions useful in modern ML, and their derivatives (for backprop purposes).
 """
+def get_activations(name: str):
+    #TODO
+    pass
+
 def sigmoid(x: np.ndarray) -> np.ndarray:
     """
     Implements the sigmoid: 1/(1+e^-x)
